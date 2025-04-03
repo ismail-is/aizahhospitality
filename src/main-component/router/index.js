@@ -32,16 +32,15 @@ const AllRoute = () => {
 
   return (
     <div className="App">
-      <BrowserRouter basename='/aizahhospitality'>
+      <BrowserRouter>
         <Routes>
-          {/* <Route path='/' element={<Homepage />} /> */}
+          <Route path='/' element={<Homepage />} />
           <Route path='home' element={<Homepage />} />
           <Route path='home2' element={<Homepage2 />} />
           <Route path='home3' element={<HomePage3 />} />
           <Route path='about' element={<AboutPage />} />
           <Route path='search-result' element={<SearchResults />} />
           <Route path='room-single/:id' element={<RoomSinglePage />} />
-          {/* <Route path='room-single/:id' element={<RoomSinglePage />} /> */}
           <Route path='cart' element={<CartPage />} />
           <Route path='checkout' element={<CheckoutPage />} />
           <Route path='order_received' element={<OrderRecived />} />

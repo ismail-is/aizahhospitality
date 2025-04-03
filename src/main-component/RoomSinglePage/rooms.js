@@ -54,7 +54,7 @@ const Rooms = () => {
                 <div className="room-wrap room-active">
                     <Slider {...settings}>
                         {products.length > 0 &&
-                            products.slice(0, 6).map((product, pitem) => (
+                            products.slice(0, 8).map((product, pitem) => (
                                 <div className="room-item" key={pitem}>
                                     <div className="room-img">
                                         <Zoom>
