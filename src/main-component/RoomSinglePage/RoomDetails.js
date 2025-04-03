@@ -157,7 +157,7 @@ const RoomDetails = (props) => {
                                 </div>
                                 <div className="review-text">
                                     <div className="r-title">
-                                        <h2>Marry Watson</h2>
+                                        <h2>Review one</h2>
                                         <ul>
                                             <li><i className="fa fa-star" aria-hidden="true"></i></li>
                                             <li><i className="fa fa-star" aria-hidden="true"></i></li>
@@ -177,7 +177,7 @@ const RoomDetails = (props) => {
                                 </div>
                                 <div className="review-text">
                                     <div className="r-title">
-                                        <h2>Lily Havenly</h2>
+                                        <h2>Review two</h2>
                                         <ul>
                                             <li><i className="fa fa-star" aria-hidden="true"></i></li>
                                             <li><i className="fa fa-star" aria-hidden="true"></i></li>
@@ -191,6 +191,7 @@ const RoomDetails = (props) => {
                                 </div>
                             </div>
                         </div>
+                        
                         <div className="add-review">
                             <div className="room-title">
                                 <h2>Add Review</h2>
@@ -259,6 +260,11 @@ const RoomDetails = (props) => {
                     </div>
                     <RoomSidebar/>
                 </div>
+                
+                <div className="map-area">
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d352341.87716351956!2d55.22748795!3d25.076022449999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43496ad9c645%3A0xbde66e5084295162!2sDubai%20-%20United%20Arab%20Emirates!5e1!3m2!1sen!2sin!4v1743676915886!5m2!1sen!2sin"></iframe>
+                            </div>
             </div>
         </div>
     )

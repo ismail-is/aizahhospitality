@@ -44,10 +44,10 @@ const RoomSinglePage = (props) => {
                     <div className="room-details-inner">
                         
                         <Rooms item={item}/>
-                        <div className="wpo-hotel-details-section">
+                        <div className="wpo-hotel-details-section" style={{marginTop:'-100px'}}>
                             <div className="container">
                                 <div className="row">
-                                    <div className="col-lg-12">
+                                    <div className="col-lg-12" >
                                         <div className="wpo-hotel-details-wrap">
                                             
                                             <div className="wpo-hotel-details-area">
@@ -70,7 +70,7 @@ const RoomSinglePage = (props) => {
                                                         <h2>2</h2>
                                                     </div>
                                                     <div className="details-sub">
-                                                        <h5>Price <span>${item.price}</span> / Night</h5>
+                                                        <h5>Price AED<span>{item.price}</span> / Night</h5>
                                                     </div>
                                                 </form>
                                             </div>
@@ -84,7 +84,7 @@ const RoomSinglePage = (props) => {
                 : null}
             </div>
             {/* <Newslatter nClass={'section-bg'}/> */}
-            <Footer />
+            {/* <Footer /> */}
             <Scrollbar />
         </Fragment>
     )
