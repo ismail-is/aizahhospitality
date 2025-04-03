@@ -44,7 +44,7 @@ const RoomSinglePage = (props) => {
                     <div className="room-details-inner">
                         
                         <Rooms item={item}/>
-                        <div className="wpo-hotel-details-section" style={{marginTop:'-100px'}}>
+                        <div className="wpo-hotel-details-section" style={{marginTop:'-70px'}}>
                             <div className="container">
                                 <div className="row">
                                     <div className="col-lg-12" >
