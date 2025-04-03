@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aizahhospitality/static/css/main.5a46b277.css",
-    "main.js": "/aizahhospitality/static/js/main.80c7c91c.js",
+    "main.js": "/aizahhospitality/static/js/main.2757f26b.js",
     "static/js/787.ec44f5a3.chunk.js": "/aizahhospitality/static/js/787.ec44f5a3.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/aizahhospitality/static/media/fontawesome-webfont.0df0476086c08bcee568.svg",
     "static/media/themify.svg?-fvbane": "/aizahhospitality/static/media/themify.c4292f34297f1004471a.svg",
@@ -41,11 +41,11 @@
     "static/media/slick.woff": "/aizahhospitality/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/aizahhospitality/index.html",
     "main.5a46b277.css.map": "/aizahhospitality/static/css/main.5a46b277.css.map",
-    "main.80c7c91c.js.map": "/aizahhospitality/static/js/main.80c7c91c.js.map",
+    "main.2757f26b.js.map": "/aizahhospitality/static/js/main.2757f26b.js.map",
     "787.ec44f5a3.chunk.js.map": "/aizahhospitality/static/js/787.ec44f5a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a46b277.css",
-    "static/js/main.80c7c91c.js"
+    "static/js/main.2757f26b.js"
   ]
 }
