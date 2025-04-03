@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "proImg": "/allimg/room/1.png",
+    "title": "Deluxe Contrast Room",
+    "price": "200",
+    "delPrice": "380",
+    "sqm":"52",
+    "bedroom":"2",
+    "bathroom":"1",
+    "capacity":"2",
+    "Children":"6"
+  },
+  {
+    "id": 2,
+    "proImg": "/allimg/room/2.png",
+    "title": "Luxery Twin Room",
+    "price": "250",
+    "delPrice": "380",
+    "sqm":"70",
+    "bedroom":"2",
+    "bathroom":"1",
+    "capacity":"2",
+    "Children":"3"
+  },
+  {
+    "id": 3,
+    "proImg": "/allimg/room/3.png",
+    "title": "Single Contrast Room",
+    "price": "230",
+    "sqm":"82",
+    "bedroom":"2",
+    "bathroom":"1",
+    "delPrice": "380",
+    "capacity":"3",
+    "Children":"5"
+  },
+  
+  {
+    "id": 5,
+    "proImg": "/allimg/room/5.png",
+    "title": "Apartment Balcony",
+    "price": "260",
+    "sqm":"55",
+    "bedroom":"2",
+    "bathroom":"1",
+    "delPrice": "280",
+    "capacity":"2",
+    "Children":"6"
+  },
+  {
+    "id": 6,
+    "proImg": "/allimg/room/6.png",
+    "title": "Deluxe Contrast Room",
+    "price": "200",
+    "sqm":"85",
+    "bedroom":"2",
+    "bathroom":"1",
+    "delPrice": "380",
+    "capacity":"2",
+    "Children":"6"
+  },
+  {
+    "id": 7,
+    "proImg": "/allimg/room/7.png",
+    "title": "Deluxe Contrast Room",
+    "price": "200",
+    "sqm":"85",
+    "bedroom":"2",
+    "bathroom":"1",
+    "delPrice": "380",
+    "capacity":"2",
+    "Children":"6"
+  },
+  {
+    "id": 8,
+    "proImg": "/allimg/room/8.png",
+    "title": "Deluxe Contrast Room",
+    "price": "200",
+    "sqm":"85",
+    "bedroom":"2",
+    "bathroom":"1",
+    "delPrice": "380",
+    "capacity":"2",
+    "Children":"6"
+  },
+  {
+    "id": 9,
+    "proImg": "/allimg/room/9.png",
+    "title": "Deluxe Contrast Room",
+    "price": "200",
+    "sqm":"85",
+    "bedroom":"2",
+    "bathroom":"1",
+    "delPrice": "380",
+    "capacity":"2",
+    "Children":"6"
+  }
+]
