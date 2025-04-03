@@ -26,9 +26,9 @@ const RoomSidebar = (props) => {
     const products = productsArray
 
     return (
-        <div className="col-lg-4 col-12">
+        <div className="col-lg-4 col-12" >
             <div className="blog-sidebar room-sidebar">
-                <div className="widget check-widget">
+                <div className="widget check-widget" style={{backgroundColor:'#e1ce6c'}}>
                     <h3>Check Availability</h3>
                     <form onSubmit={SubmitHandler}>
                         <div className="input-group date">

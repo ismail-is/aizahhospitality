@@ -48,29 +48,29 @@ const RoomSinglePage = (props) => {
                             <div className="container">
                                 <div className="row">
                                     <div className="col-lg-12" >
-                                        <div className="wpo-hotel-details-wrap">
+                                        <div className="wpo-hotel-details-wrap" style={{backgroundColor:'#879ebb'}}>
                                             
-                                            <div className="wpo-hotel-details-area">
-                                                <form className="clearfix">
+                                            <div className="wpo-hotel-details-area" >
+                                                <form className="clearfix" style={{backgroundColor:'#879ebb'}}>
                                                     <div className="details-sub">
-                                                        <span>GUESTS</span>
+                                                        <span style={{color:'white'}}>GUESTS</span>
                                                         <h2>4</h2>
                                                     </div>
                                                     <div className="details-sub">
-                                                        <span>BEDROOM</span>
+                                                        <span style={{color:'white'}}>BEDROOM</span>
                                                         <h2>1</h2>
                                                     </div>
                                                     <div className="details-sub">
-                                                        <span>BED</span>
+                                                        <span style={{color:'white'}}>BED</span>
                                                         <h2>1</h2>
                                                         {/* <h2>{item.capacity} adults ({item.Children} children)</h2> */}
                                                     </div>
                                                     <div className="details-sub">
-                                                        <span>BATHROOMS</span>
+                                                        <span style={{color:'white'}}>BATHROOMS</span>
                                                         <h2>2</h2>
                                                     </div>
                                                     <div className="details-sub">
-                                                        <h5>Price AED<span>{item.price}</span> / Night</h5>
+                                                        <h5 style={{color:'white'}}>Price AED<span>{item.price}</span> / Night</h5>
                                                     </div>
                                                 </form>
                                             </div>

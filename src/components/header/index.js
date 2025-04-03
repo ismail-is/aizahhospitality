@@ -30,7 +30,7 @@ const Header = (props) => {
               <div className="row align-items-center">
                 <div className="col-lg-3 col-md-3 col-3 d-lg-none dl-block">
                   <div className="mobail-menu">
-                    {/* <MobileMenu /> */}
+                    <MobileMenu />
                   </div>
                 </div>
                 <div className="col-lg-2 col-md-6 col-6">
